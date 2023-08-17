@@ -27,7 +27,7 @@ Authorization callback URL: http://localhost:3000/api/auth/callback/github
 3. Fill in the following details
 
 ```
-Application name: Azure ChatGPT Production
+Application name: ChatGPT on Azure solution accelerator Production
 Homepage URL: https://YOUR-WEBSITE-NAME.azurewebsites.net
 Authorization callback URL: https://YOUR-WEBSITE-NAME.azurewebsites.net/api/auth/callback/github
 ```

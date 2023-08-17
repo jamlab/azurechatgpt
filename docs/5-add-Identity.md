@@ -49,7 +49,7 @@ Authorization callback URL: https://YOUR-WEBSITE-NAME.azurewebsites.net/api/auth
 3. Fill in the following details
 
 ```
-Application name: Azure ChatGPT DEV Environment
+Application name: ChatGPT on Azure solution accelerator DEV Environment
 Supported account types: Accounts in this organizational directory only
 Redirect URI Platform: Web
 Redirect URI: http://localhost:3000/api/auth/callback/azure-ad

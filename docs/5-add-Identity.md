@@ -15,7 +15,7 @@ We'll create two GitHub apps: one for testing locally and another for production
 3. Fill in the following details
 
 ```
-Application name: Azure ChatGPT DEV Environment
+Application name: ChatGPT on Azure solution accelerator DEV Environment
 Homepage URL: http://localhost:3000
 Authorization callback URL: http://localhost:3000/api/auth/callback/github
 ```
